@@ -1,33 +1,30 @@
-{
-  "version": 1,
-  "stories": [
-    {
-      "id": "ananse_pot_wisdom",
-      "title": "Ananse and the Pot of Wisdom",
-      "category": "Ananse",
-      "cover": "https://raw.githubusercontent.com/you/ananse-stories/main/images/ananse_pot_wisdom.jpg",
-      "body": "Long ago, Ananse the spider was very clever. One day he saw a pot of wisdom in a village. He wanted it for himself. Ananse thought of a plan. He changed himself into a small insect and crawled into the pot..."
-    },
-    {
-      "id": "tortoise_hare",
-      "title": "The Tortoise and the Hare",
-      "category": "Folktales",
-      "cover": "https://raw.githubusercontent.com/you/ananse-stories/main/images/tortoise_hare.jpg",
-      "body": "The hare always boasted that he was the fastest animal in the forest. The tortoise, tired of the boasting, challenged him to a race."
-    },
-    {
-      "id": "sun_moon_sky",
-      "title": "Why the Sun and Moon Live in the Sky",
-      "category": "Legends",
-      "cover": "https://raw.githubusercontent.com/you/ananse-stories/main/images/sun_moon_sky.jpg",
-      "body": "Long ago, the Sun and Water were great friends and lived together on the earth."
-    },
-    {
-      "id": "two_friends_elephant",
-      "title": "The Two Friends and the Elephant",
-      "category": "Moral Stories",
-      "cover": "https://raw.githubusercontent.com/you/ananse-stories/main/images/two_friends_elephant.jpg",
-      "body": "Two friends were walking through the forest when they saw an elephant approaching."
-    }
-  ]
-}
+[
+  {
+    "id": "ananse_pot_wisdom",
+    "title": "Ananse and the Pot of Wisdom",
+    "category": "Ananse",
+    "cover": "https://raw.githubusercontent.com/you/ananse-stories/main/images/ananse_pot_wisdom.jpg",
+    "body": "Long ago, Ananse the spider was very clever. One day he saw a pot of wisdom in a village. He wanted it for himself. Ananse thought of a plan. He changed himself into a small insect and crawled into the pot..."
+  },
+  {
+    "id": "tortoise_hare",
+    "title": "The Tortoise and the Hare",
+    "category": "Folktales",
+    "cover": "https://raw.githubusercontent.com/you/ananse-stories/main/images/tortoise_hare.jpg",
+    "body": "The hare always boasted that he was the fastest animal in the forest. The tortoise, tired of the boasting, challenged him to a race."
+  },
+  {
+    "id": "sun_moon_sky",
+    "title": "Why the Sun and Moon Live in the Sky",
+    "category": "Legends",
+    "cover": "https://raw.githubusercontent.com/you/ananse-stories/main/images/sun_moon_sky.jpg",
+    "body": "Long ago, the Sun and Water were great friends and lived together on the earth."
+  },
+  {
+    "id": "two_friends_elephant",
+    "title": "The Two Friends and the Elephant",
+    "category": "Moral Stories",
+    "cover": "https://raw.githubusercontent.com/you/ananse-stories/main/images/two_friends_elephant.jpg",
+    "body": "Two friends were walking through the forest when they saw an elephant approaching."
+  }
+]
